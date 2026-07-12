@@ -1,7 +1,7 @@
-# Esperanza de Vida Mundial
+# Valoración de Empresas con Datos Financieros
 
-Proyecto de ciencia de datos que analiza qué factores económicos y sociales 
-predicen la esperanza de vida de los países.
+Proyecto de ciencia de datos que analiza qué indicadores financieros 
+predicen si una empresa está sobrevalorada o infravalorada en bolsa.
 
 ## Autor
 Héctor Nieto Colás
