@@ -1,0 +1,11 @@
+symbol,shortName,sector,trailingPE,forwardPE,priceToBook,debtToEquity,profitMargins,returnOnEquity,revenueGrowth,earningsGrowth
+AAPL,Apple Inc.,Technology,38.174335,32.815243,43.432507,79.548,0.27152002,1.4147099,0.166,0.218
+MSFT,Microsoft Corporation,Technology,22.93627,19.89158,6.9042797,30.271,0.39341998,0.34013999,0.183,0.234
+GOOGL,Alphabet Inc.,Communication Services,27.244852,24.513006,9.039328,20.026,0.37919,0.38884997,0.218,0.82
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,29.311829,24.805996,5.9703603,53.3,0.12224,0.24285,0.166,0.748
+META,"Meta Platforms, Inc.",Communication Services,24.33491,18.420841,6.969994,35.608,0.32837,0.32930002,0.331,0.624
+TSLA,"Tesla, Inc.",Consumer Cyclical,370.69092,158.19429,18.62173,18.738,0.03946,0.04901,0.158,0.083
+NVDA,NVIDIA Corporation,Technology,32.25688,16.494099,26.141266,6.555,0.62966,1.14288,0.852,2.145
+JPM,JP Morgan Chase & Co.,Financial Services,16.10675,14.05983,2.6209116,,0.33936,0.16465001,0.127,0.172
+JNJ,Johnson & Johnson,Healthcare,29.777521,20.164024,7.617608,67.73,0.21834,0.26416,0.099,-0.529
+PG,Procter & Gamble Company (The),Consumer Defensive,21.497074,20.820147,6.370608,67.651,0.19162,0.31112,0.074,0.058
